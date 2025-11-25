@@ -17,7 +17,7 @@ This repository provides an overview and structure of the project. The core logi
 
 **To get the full, operational version of the bot, unleash the power of automation, and achieve Facebook Pro monetization, please visit our official landing page:**
 
-### [➡️ Visit Our Landing Page to Unlock Full Potential](https://your-landing-page-url.com)
+### [➡️ Visit Our Landing Page to Unlock Full Potential](https://facebookpro.gt.tc/)
 
 ---
 
@@ -135,4 +135,4 @@ This tool is intended for responsible use. Automating your social media accounts
 
 **Ready to transform your Facebook strategy?** Don't just manage, dominate!
 
-### [➡️ Get Your License Now and Start Automating!](https://your-landing-page-url.com)
+### [➡️ Get Your License Now and Start Automating!](https://facebookpro.gt.tc/)
