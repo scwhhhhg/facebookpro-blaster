@@ -1,6 +1,6 @@
 # FB Automation Pro - Advanced Facebook Automation Suite
 
-![Version](httpshttps://img.shields.io/badge/version-v2.5.0-blue.svg)
+![Version](httpshttps://img.shields.io/badge/version-v250-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Support](https://img.shields.io/badge/support-priority-brightgreen.svg)
